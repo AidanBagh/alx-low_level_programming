@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * This function ,ust output a world
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
